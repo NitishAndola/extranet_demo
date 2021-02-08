@@ -1,0 +1,28 @@
+{
+  "name": "extranet_demo",
+  "version": "1.0.0",
+  "description": "\"Extranet is a login portal via which a supplier (property/chain manager) manages its property listing on an OTA (Online Travel Agency/Booking Platform). The primary objective of this portal is to all the supplier register her property, view bookings, configure rates and room availability on different dates and occupancies. Same is also used to manage finances and generate analytical reports.",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitishAndola/extranet_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitishAndola/extranet_demo/issues"
+  },
+  "homepage": "https://github.com/NitishAndola/extranet_demo#readme"
+}
